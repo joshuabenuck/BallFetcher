@@ -1,0 +1,4 @@
+All code is released under the terms of the MIT license.
+
+vdip.py - This script currently detects if an android phone supports accessory mode and little else. The VDIP1 module was connected via an FTDI cable. Eventually, I expect to port this code to an Arduino.
+
